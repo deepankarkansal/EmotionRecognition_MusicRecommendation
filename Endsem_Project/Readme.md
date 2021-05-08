@@ -25,9 +25,9 @@ The images dataset are as follow :
 1. Testing data (X_test) = https://drive.google.com/file/d/1u3RX905jmzDbaDDrLjkR1TA5JMFs8BnU/view?usp=sharing
 2. Testing Labels (y_test) = https://drive.google.com/file/d/1KTaEUsdB9PZSup8x_-4jT_DV5Cq41ZOs/view?usp=sharing
 3. Training data (X_train) = https://drive.google.com/file/d/1CLj8aw45NPWo1tP9QKzn3QLs1rAAUws8/view?usp=sharing
-4. Training Labels (y_train) = https://drive.google.com/file/d/1i_9nFWqEvF6DDUMgbxM4tI-PYFLxaSJH/view?usp=sharing
-The song dataset is as follows:
-1. Playlist = https://docs.google.com/spreadsheets/d/1AmlOC6RN-pYKdU6nU2e2dmxXPYhJGc3zWknkKQFt9O4/edit?usp=sharing
+4. Training Labels (y_train) = https://drive.google.com/file/d/1i_9nFWqEvF6DDUMgbxM4tI-PYFLxaSJH/view?usp=sharing <br />
+The song dataset is as follows: <br />
+1. Playlist = https://docs.google.com/spreadsheets/d/1AmlOC6RN-pYKdU6nU2e2dmxXPYhJGc3zWknkKQFt9O4/edit?usp=sharing <br />
 Note : To access the dataset you must login with IIITD gmail accounts.
 
 
