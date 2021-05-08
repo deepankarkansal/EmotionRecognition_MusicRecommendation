@@ -32,6 +32,10 @@ Playlist = https://docs.google.com/spreadsheets/d/1AmlOC6RN-pYKdU6nU2e2dmxXPYhJG
 
 Note : To access the dataset you must login with IIITD gmail accounts.  
 
+**Model used in our project :**  
+
+The link all the models used in our project = 
+
 
 
 
