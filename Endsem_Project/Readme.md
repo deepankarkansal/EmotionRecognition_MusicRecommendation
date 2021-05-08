@@ -30,11 +30,13 @@ The images dataset are as follow :
 The song dataset is as follows:  
 Playlist = https://docs.google.com/spreadsheets/d/1AmlOC6RN-pYKdU6nU2e2dmxXPYhJGc3zWknkKQFt9O4/edit?usp=sharing  
 
-Note : To access the dataset you must login with IIITD gmail accounts.  
+ 
 
 **Model used in our project :**  
 
-The link all the models used in our project = 
+The link all the models used in our project = https://drive.google.com/drive/folders/1ir60fi0oThQBPDE86KJkWETvOFwMfkGL?usp=sharing  
+
+Note : To access the dataset  and models you must login with your IIITD gmail accounts. 
 
 
 
