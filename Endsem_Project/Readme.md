@@ -19,7 +19,7 @@ A readme file (pdf format) containing info about, how to run the codes is provid
 13. random  (Random module is a built-in module to generate the pseudo-random variables.)
 14. joblib  (Joblib is part of the SciPy ecosystem and provides utilities for pipelining Python jobs.)
 
-**Datasets used in the project : **
+**Datasets used in the project :**
 
 The images dataset are as follow :
 1. Testing data (X_test) = https://drive.google.com/file/d/1u3RX905jmzDbaDDrLjkR1TA5JMFs8BnU/view?usp=sharing
@@ -27,7 +27,7 @@ The images dataset are as follow :
 3. Training data (X_train) = https://drive.google.com/file/d/1CLj8aw45NPWo1tP9QKzn3QLs1rAAUws8/view?usp=sharing
 4. Training Labels (y_train) = https://drive.google.com/file/d/1i_9nFWqEvF6DDUMgbxM4tI-PYFLxaSJH/view?usp=sharing
 The song dataset is as follows:
-Playlist = https://docs.google.com/spreadsheets/d/1AmlOC6RN-pYKdU6nU2e2dmxXPYhJGc3zWknkKQFt9O4/edit?usp=sharing
+1. Playlist = https://docs.google.com/spreadsheets/d/1AmlOC6RN-pYKdU6nU2e2dmxXPYhJGc3zWknkKQFt9O4/edit?usp=sharing
 Note : To access the dataset you must login with IIITD gmail accounts.
 
 
